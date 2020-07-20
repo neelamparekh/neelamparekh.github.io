@@ -1,0 +1,19 @@
+/* Element Selector */
+body {
+    background-image: url(c3.jpg);
+}
+a:link, a:visited {
+
+    color: darkred;
+    text-align: center;
+    text-decoration: yellow;
+    display: inline-block;
+}
+h2 {
+    color: darkblue;
+}
+
+
+table, tr, th, td {
+    border: 1px solid black;
+}
